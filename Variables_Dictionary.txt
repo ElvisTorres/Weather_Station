@@ -1,0 +1,33 @@
+Variables Dictionary,
+Retrieval Codes,
+0R1 = Winds, 
+0R2 = Housekeeping variables,
+0R3 - Rain and Hail,
+0R5 = Temperature-Relative Humidity-Pressure,
+
+Dn = Wind Direction Minimum,
+Dm = Wind Direction Average,
+Dx = Win Direction maximum,
+all in degrees,
+
+Sn = Wind Speed Minimum, 
+Sm = Wind Speed Average,
+Sx = Wind Speed Maximum,
+all in m/s,
+
+Ta = Air Temperature (C),
+Ua = Relative Humidity (%),
+Pa = Air Pressure (mbar),
+
+Rc = Rain accumulation (mm),
+Rd = Rain duration (s),
+Ri = Rain intensity (mm/s), 
+
+Hc = Hail accumulation (mm),
+Hd = Hail duration (s),
+Hi = Hail Intensity (mm/s),
+
+Th = Heating Temperature (C),
+Vh = Heating Voltage,
+Vs = Supply Voltage,
+Vr = 3.5V reference voltage,
