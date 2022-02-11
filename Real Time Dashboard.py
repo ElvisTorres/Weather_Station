@@ -31,9 +31,9 @@ app.layout = html.Div([
                                          style={'textAlign': 'center', 'color': '#F57241'}),
                                 html.Div([
                                     html.Div(dcc.Graph(id='wind_fig'),
-                                             style={'display': 'inline-block', 'width': 990, 'height': 1600}),
+                                             style={'display': 'inline-block', 'width': '35vw', 'height': 1800}),
                                     html.Div(dcc.Graph(id='rain_fig'),
-                                             style={'display': 'inline-block', 'width': 2800, 'height': 1600})],
+                                             style={'display': 'inline-block', 'width': '60vw', 'height': 1800})],
                                     style={'textAlign': 'center', 'color': '#F57241'})
                       ])
 ])
@@ -162,4 +162,4 @@ def update_graph(num):
 #------------------------------------------------------------------------
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
