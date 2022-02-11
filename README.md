@@ -9,6 +9,7 @@ What does this code do:
 
 •	Visualizes all variables in a comprehensive dashboard.
 
+•	Updates the dashboard in real time.
 
 
 Still under development.
