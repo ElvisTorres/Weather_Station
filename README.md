@@ -1,7 +1,19 @@
 # Weather_Station
 I developed this code to help a school that wanted to integrate weather studies into their sciences curriculum.
-This code takes a weather station data file and breaks it up into a more user-friendly format. It also produces a visualization of the variables the station measures.
+
+What does this code do:
+
+•	User-friendly dialog for loading the datafile.
+
+•	Takes the instrument generated datafile and breaks it into usable data frames.
+
+•	Visualizes all variables in a comprehensive dashboard.
+
+
 
 Still under development.
 
-![](https://github.com/ElvisTorres/Weather_Station/blob/master/Vaisala%20Weather%20Station%20Dashboard%20(1).jpg)
+![](https://github.com/ElvisTorres/Weather_Station/blob/master/Weather%20Station%20Dashboard.JPG)
+
+Alternative dark version:
+![](https://github.com/ElvisTorres/Weather_Station/blob/master/Weather%20Station%20Dashboard%20Dark%20Theme.JPG)
